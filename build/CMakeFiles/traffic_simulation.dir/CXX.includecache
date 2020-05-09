@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/martincheung/Desktop/Learning Resources/C++ Nanodegree/Udacity-Cpp-Nanodegree/Project4-Concurrent-Traffic-Simulation/src/TrafficLight.cpp
+iostream
+-
+random
+-
+chrono
+-
+TrafficLight.h
+/Users/martincheung/Desktop/Learning Resources/C++ Nanodegree/Udacity-Cpp-Nanodegree/Project4-Concurrent-Traffic-Simulation/src/TrafficLight.h
+
+/Users/martincheung/Desktop/Learning Resources/C++ Nanodegree/Udacity-Cpp-Nanodegree/Project4-Concurrent-Traffic-Simulation/src/TrafficLight.h
+mutex
+-
+deque
+-
+condition_variable
+-
+TrafficObject.h
+/Users/martincheung/Desktop/Learning Resources/C++ Nanodegree/Udacity-Cpp-Nanodegree/Project4-Concurrent-Traffic-Simulation/src/TrafficObject.h
+
+/Users/martincheung/Desktop/Learning Resources/C++ Nanodegree/Udacity-Cpp-Nanodegree/Project4-Concurrent-Traffic-Simulation/src/TrafficObject.h
+vector
+-
+thread
+-
+mutex
+-
+
